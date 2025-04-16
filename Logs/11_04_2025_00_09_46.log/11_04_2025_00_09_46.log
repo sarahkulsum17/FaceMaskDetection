@@ -1,0 +1,15 @@
+[ 2025-04-11 00:09:46,966 ] 19 root : INFO : logging test
+[ 2025-04-11 00:09:46,968 ] 12 root : INFO : Model Loading Started
+[ 2025-04-11 00:09:49,257 ] 259 absl : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-11 00:09:49,272 ] 184 absl : WARNING : Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[ 2025-04-11 00:09:49,273 ] 28 root : INFO : Model loaded successfully with custom objects
+[ 2025-04-11 00:09:49,335 ] 37 root : INFO : Model Loading Ended
+[ 2025-04-11 00:09:49,354 ] 14 root : INFO : Model Loading Started
+[ 2025-04-11 00:09:50,783 ] 259 absl : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-11 00:09:50,786 ] 184 absl : WARNING : Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[ 2025-04-11 00:09:50,787 ] 30 root : INFO : Model loaded successfully with custom objects
+[ 2025-04-11 00:09:50,819 ] 39 root : INFO : Model Loading Ended
+[ 2025-04-11 00:09:52,325 ] 149 tensorflow : WARNING : From C:\Users\ZAIDSARAH\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[ 2025-04-11 00:10:12,578 ] 81 root : INFO : Real time prediction started
+[ 2025-04-11 00:10:14,184 ] 110 root : INFO : Error at Real time Detection

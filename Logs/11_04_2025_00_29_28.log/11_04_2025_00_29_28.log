@@ -1,0 +1,13 @@
+[ 2025-04-11 00:29:28,159 ] 19 root : INFO : logging test
+[ 2025-04-11 00:29:28,164 ] 12 root : INFO : Model Loading Started
+[ 2025-04-11 00:29:29,284 ] 259 absl : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-11 00:29:29,284 ] 184 absl : WARNING : Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[ 2025-04-11 00:29:29,291 ] 28 root : INFO : Model loaded successfully with custom objects
+[ 2025-04-11 00:29:29,359 ] 37 root : INFO : Model Loading Ended
+[ 2025-04-11 00:29:29,375 ] 14 root : INFO : Model Loading Started
+[ 2025-04-11 00:29:29,892 ] 259 absl : WARNING : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[ 2025-04-11 00:29:29,892 ] 184 absl : WARNING : Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+[ 2025-04-11 00:29:29,892 ] 30 root : INFO : Model loaded successfully with custom objects
+[ 2025-04-11 00:29:29,909 ] 39 root : INFO : Model Loading Ended
+[ 2025-04-11 00:29:30,711 ] 149 tensorflow : WARNING : From C:\Users\ZAIDSARAH\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
