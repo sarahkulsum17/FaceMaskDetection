@@ -35,7 +35,7 @@ To set up the Face Mask Detection project, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/ankitrajput77/FaceMaskDetection.git
+git clone https://github.com/sarahkulsum17/FaceMaskDetection.git
 ```
 2. Navigate to the project directory:
 ```
@@ -77,13 +77,13 @@ The model achieved an accuracy of 96% on the test dataset. The performance may v
 <img width="573" alt="Screenshot 2023-07-29 151541" src="https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/4335d6ac-66a6-452c-a8c4-1ac59237215a">
 <img width="536" alt="Screenshot 2023-07-29 151552" src="https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/d267d5d0-5ec5-4b5d-a861-be3cf9bd0f4a">
 
-## ProjectDemo
-https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/094d1030-83f1-431c-a005-40c9af297668
+
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or want to enhance the functionality, feel free to open a pull request. Please make sure to follow the coding conventions and provide detailed information about the changes.
 
 ## License
 This project is licensed under the MIT License.
+
 
 
